@@ -1,0 +1,6 @@
+framework module Pods_Trail_Flo {
+  umbrella header "Pods-Trail Flo-umbrella.h"
+
+  export *
+  module * { export * }
+}
